@@ -1,12 +1,28 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Junior Software Development Analyst
+- 🔭 I’m currently learning Geology
 - 🌱 I’m currently learning Software Engineering
-- 📫 How to reach me: hygorrasec@gmail.com
-- 😄 Pronouns: Rasec
-- ⚡ Fun fact: I love technology and multiplayer games
+- 📫 How to reach me: vbtatagiba77@gmail.com
+- 😄 Pronouns: Victor 
+- ⚡ Fun fact: I love technology , multiplayer games and FPS
 
-A little bit of everything I've ever used:
+- 🔭 Atualmente estou aprendendo Geologia
+- 🌱 Atualmente estou aprendendo Engenharia de Software
+- 📫 Como chegar até mim: vbtatagiba77@gmail.com
+- 😄 Pronomes: Victor
+- ⚡ Curiosidade: adoro tecnologia , jogos multiplayer e FPS
+
+- 🔭 J’apprends actuellement la géologie
+- 🌱 J’apprends actuellement le génie logiciel
+- 📫 Comment me joindre : vbtatagiba77@gmail.com
+- 😄 Pronoms : Victor 
+- ⚡ Fait amusant : j’adore la technologie, les jeux multijoueurs et le FPS
+
+-Eu Falo Inglês e francês
+-I speak english and french
+-Je parle anglais et français 
+
+A little of what I've used:
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)

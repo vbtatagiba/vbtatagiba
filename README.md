@@ -45,5 +45,5 @@ A little of what I've used:
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=hygorrasec&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=vbtatagiba&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <img src="https://raw.githubusercontent.com/allystor/allystor/output/github-contribution-grid-snake.svg">
